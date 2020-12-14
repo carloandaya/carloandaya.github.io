@@ -5,6 +5,7 @@ title: French Macarons Filling
 ## Ingredients
 
 ### Chocolate
+
 Ingredient | Quantity | Notes
 ---|---|---
 Dark chocolate | 100 grams |
@@ -12,6 +13,7 @@ Heavy cream | 1/2 cup or 114 grams |
 Butter | 1 tablespoon or 14.2 grams |
 
 ### Pistachio (Nuts)
+
 Ingredient | Quantity | Notes
 ---|---|---
 White chocolate | 100 grams |
@@ -20,6 +22,7 @@ Butter | 1 tablespoon or 14.2 grams |
 Ground pistachio | 1 tablespoon |
 
 ### Raspberries (Jams)
+
 Ingredient | Quantity | Notes
 ---|---|---
 White chocolate | 100 grams |
@@ -28,6 +31,7 @@ Butter | 1 tablespoon or 14.2 grams |
 Raspberry jam | 1 tablespoon |
 
 ## Directions
+
 1. Put the chocolate in a bowl and cover it with the heavy cream.
 
 1. Microwave the bowl of chocolate and cream for 30 seconds.
