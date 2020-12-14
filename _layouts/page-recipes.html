@@ -1,0 +1,6 @@
+---
+layout: page
+---
+{% for recipe in site.recipes %}
+  <a href="{{ recipe.url }}">{{ recipe.title }}</a>
+{% endfor %}
