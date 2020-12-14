@@ -8,23 +8,23 @@ title: French Macarons Filling
 Ingredient | Quantity | Notes
 ---|---|---
 Dark chocolate | 100 grams |
-Heavy cream | 1/2 cup |
-Butter | 1 tablespoon |
+Heavy cream | 1/2 cup or 114 grams |
+Butter | 1 tablespoon or 14.2 grams |
 
 ### Pistachio (Nuts)
 Ingredient | Quantity | Notes
 ---|---|---
 White chocolate | 100 grams |
-Heavy cream | 1/4 cup |
-Butter | 1 tablespoon |
+Heavy cream | 1/4 cup or 57 grams |
+Butter | 1 tablespoon or 14.2 grams |
 Ground pistachio | 1 tablespoon |
 
 ### Raspberries (Jams)
 Ingredient | Quantity | Notes
 ---|---|---
 White chocolate | 100 grams |
-Heavy cream | 1/4 cup |
-Butter | 1 tablespoon |
+Heavy cream | 1/4 cup or 57 grams |
+Butter | 1 tablespoon or 14.2 grams |
 Raspberry jam | 1 tablespoon |
 
 ## Directions
