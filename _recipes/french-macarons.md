@@ -44,7 +44,7 @@ Makes approximately 44 cookies good for 22 pairs.
 
 1. Drop the baking sheet on the counter to remove air bubbles.
 
-1. Let stand at room temperature for one hour until the top is dry. This would be a good time to start making the filling.
+1. Let stand at room temperature for one hour until the top is dry. This would be a good time to start making the [filling]({{ '/recipes/french-macarons-filling.html' | relative_url }}).
 
 1. Bake each tray at 300F for 14 minutes.[^1]
 
