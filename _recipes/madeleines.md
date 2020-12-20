@@ -30,12 +30,12 @@ Baking powder | 1 teaspoon
 
 1. Add the melted butter to the batter. Do this slowly to avoid cooking the eggs.
 
-1. Mix the flour and baking powder into the batter. 
+1. Mix the flour and baking powder into the batter.
 
 1. Pour the batter into the madeleine mold, filling each form halfway. You can use two teaspoons to do this.
 
-1. Put the mold in the refrigerator for 15 minutes. 
+1. Put the mold in the refrigerator for 15 minutes.
 
-1. Bake for 10-12 minutes at 400 F or until golden. 
+1. Bake for 10-12 minutes at 400 F or until golden.
 
 1. Remove the madeleines from the oven and let them cool for at least 2 minutes.
