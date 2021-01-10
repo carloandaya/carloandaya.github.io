@@ -10,7 +10,7 @@ categories: networking azure
 
 ### Microsoft Azure
 
-We're going to need to spin up the following services:
+We need to spin up the following services:
 
 1. Azure Active Directory Domain Services
 
