@@ -56,3 +56,5 @@ plugins:
 collections:
   recipes:
     output: true
+  reference: 
+    output: true
