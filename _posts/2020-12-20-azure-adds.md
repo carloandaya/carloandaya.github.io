@@ -6,7 +6,24 @@ categories: networking azure
 ---
 ## Overview
 
+Diagram here.
+
+Are you wondering if you can use Azure Active Directory Domain Services without an on-premises Active Directory?
+
+### Who is this guide for?
+
+* Signed up for Office 365
+* Want to get the benefits of Active Directory
+* Do not want / need on-premises AD
+* Have equipment for site to site VPN connection  
+
 ## Directions
+
+### Fortinet
+
+1. Site to site VPN setup
+
+1. Make ADDS available to other sites
 
 ### Microsoft Azure
 
