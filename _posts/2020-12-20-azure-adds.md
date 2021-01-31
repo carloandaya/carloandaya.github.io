@@ -43,13 +43,13 @@ They will have the address spaces listed below.
 
 We need to spin up the following services:
 
+1. Azure AD Domain Services
+
 1. Virtual Network
 
 1. Virtual Network Gateway
 
 1. Local Network Gateway
-
-1. Azure AD Domain Services
 
 ## How to Use
 
@@ -58,3 +58,7 @@ We need to spin up the following services:
 ### GPO
 
 ### Deploy software
+
+## References
+
+[IPsec VPN to Microsoft Azure](https://docs.fortinet.com/document/fortigate/5.4.0/cookbook/587640/ipsec-vpn-to-microsoft-azure)
