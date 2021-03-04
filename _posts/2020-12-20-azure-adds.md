@@ -51,6 +51,28 @@ We need to spin up the following services:
 
 1. Local Network Gateway
 
+#### Azure AD Domain Services
+
+To launch the Enable Azure AD Domain Services wizard, complete the following steps:
+
+1. On the Azure portal menu or from the Home page, select Create a resource.
+
+1. Enter Domain Services into the search bar, then choose Azure AD Domain Services from the search suggestions.
+
+1. On the Azure AD Domain Services page, select Create. The Enable Azure AD Domain Services wizard is launched.
+
+1. Select the Azure Subscription in which you would like to create the managed domain.
+
+1. Select the Resource group to which the managed domain should belong. Choose to Create new or select an existing resource group.
+
+#### Virtual Network
+
+If you don't have a virtual network, the Azure AD Domain Services wizard will make you create one.
+
+#### Virtual Network Gateway
+
+#### Local Network Gateway
+
 ## How to Use
 
 ### Add Computers to Domain
@@ -62,3 +84,7 @@ We need to spin up the following services:
 ## References
 
 [IPsec VPN to Microsoft Azure](https://docs.fortinet.com/document/fortigate/5.4.0/cookbook/587640/ipsec-vpn-to-microsoft-azure)
+
+[Tutorial: Create and configure an Azure Active Directory Domain Services managed domain](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/tutorial-create-instance)
+
+[Tutorial: Create a Site-to-Site connection in the Azure portal](https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal)
