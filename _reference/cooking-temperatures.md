@@ -17,8 +17,8 @@ Category | Subcategory | Fahrenheit | Celsius
 - | Chicken and Turkey, whole | 165 | 74
 - | Breasts / roasts | 165 | 74
 - | Thighs / wings / legs | 165 | 74
-- | Duck and Goose | 165 | 71
-- | Stuffing (alone or in poultry) | 165 | 71
+- | Duck and Goose | 165 | 74
+- | Stuffing (alone or in poultry) | 165 | 74
 **Fresh Pork** |
 - | Medium | 160 | 71
 - | Well Done | 170 | 77
@@ -28,4 +28,3 @@ Category | Subcategory | Fahrenheit | Celsius
 **Eggs and Egg Dishes** | - | 160 | 71
 **Leftovers and Casseroles** | - | 165 | 74
 **Fresh Fish** | - | 145 | 60
-
