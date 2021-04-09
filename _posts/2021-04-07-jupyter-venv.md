@@ -5,6 +5,8 @@ date:   2021-04-07 12:00:00 -0800
 categories: python
 ---
 
+*Edit: Just restart Visual Studio Code after creating your virtual environment to make it show up as an option for the Jupyter notebook.*
+
 I had my Jupyter notebook open in Visual Studio Code and I just installed ```matplotlib```. When I tried to run ```import matplotlib.pyplot as plt``` in one of the cells, I got the ModuleNotFoundError.
 
 ![ModuleNotFoundError](https://carloandaya.s3-us-west-2.amazonaws.com/assets/images/posts/20210407_02_modulenotfounderror.png)
