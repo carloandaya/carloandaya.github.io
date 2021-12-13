@@ -58,5 +58,5 @@ collections:
     output: true
   reference: 
     output: true
-  maintenance-records:
+  maintenance_records:
     output: true
