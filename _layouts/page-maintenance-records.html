@@ -1,0 +1,6 @@
+---
+layout: page
+---
+{% for maintenance_record in site.maintenance_records %}
+  <h2><a href="{{ maintenance_record.url }}">{{ maintenance_record.title }}</a></h2>
+{% endfor %}

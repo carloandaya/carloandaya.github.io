@@ -58,3 +58,5 @@ collections:
     output: true
   reference: 
     output: true
+  maintenance_records:
+    output: true
