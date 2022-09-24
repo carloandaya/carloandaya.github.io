@@ -26,6 +26,7 @@ Brake Fluid | 177,750 | 2022-02-11
 Subframe Mounts | 180,900 | 2022-07-22
 Driver Side Axle | 180,900 | 2022-07-22
 Power Steering Hose | 181,898 | 2022-08-13
+Power Steering Fluid | 181,898 | 2022-08-13
 Alignment | 182,000 | 2022-08-20
 
 ### Pending Maintenance
