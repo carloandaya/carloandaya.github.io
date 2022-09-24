@@ -20,11 +20,13 @@ Front Driver Turn Signal Bulb | 177,571 |2022-01-21
 Rear Engine Mount | 177,590 | 2022-01-25
 Front Lower Transmission Mount | 177,605 | 2022-01-27
 Rear Lower Transmission Mount | 177,605 | 2022-01-27
-Automatic Transmission Fluid | 177.704 | 2022-02-05
+Automatic Transmission Fluid | 177,704 | 2022-02-05
 Transmission Filter | 177,704 | 2022-02-05
 Brake Fluid | 177,750 | 2022-02-11
 Subframe Mounts | 180,900 | 2022-07-22
 Driver Side Axle | 180,900 | 2022-07-22
+Power Steering Hose | 181,898 | 2022-08-13
+Alignment | 182,000 | 2022-08-20
 
 ### Pending Maintenance
 
