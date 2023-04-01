@@ -60,3 +60,5 @@ collections:
     output: true
   maintenance_records:
     output: true
+  bikes: 
+    output: true
