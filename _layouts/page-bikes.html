@@ -1,0 +1,6 @@
+---
+layout: page
+---
+{% for bike in site.bikes %}
+  <h2><a href="{{ bike.url }}">{{ bike.title }}</a></h2>
+{% endfor %}
