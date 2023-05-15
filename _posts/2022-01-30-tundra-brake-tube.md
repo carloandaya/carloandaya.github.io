@@ -26,9 +26,9 @@ Part Name | Part Number | MSRP
 
 ## Tools
 
-Tool Name
----
-10mm Flare Nut Wrench
+Tool Name |
+---|
+10mm Flare Nut Wrench |
 
 ## Supplies
 
