@@ -2,7 +2,7 @@
 layout: post
 title: "Impossible Railroad"
 date: 2021-05-29 12:00:00 -0800
-categories: photography analog
+categories: [photography, analog]
 ---
 
 ## Equipment

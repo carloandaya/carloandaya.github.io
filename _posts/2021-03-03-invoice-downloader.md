@@ -2,7 +2,7 @@
 layout: post
 title:  "Automated RQ Invoice Downloader"
 date:   2021-03-03 12:00:00 -0800
-categories: automation python
+categories: [automation, python]
 ---
 
 This Python program takes an Excel workbook containing invoice numbers and downloads PDFs of those invoices from RQ, a point-of-sale system.
