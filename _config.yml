@@ -63,3 +63,12 @@ collections:
     output: true
   bikes: 
     output: true
+
+header_pages: 
+  - bikes.md
+  - maintenance-records.md
+  - recipes.md
+  - reference.md
+  - about.md
+  - categories.md
+
