@@ -2,11 +2,7 @@
 layout: post
 title: "Tundra Brake Tube Failure"
 date: 2022-01-30 12:00:00 -0800
-<<<<<<< HEAD
-categories: [tundra, automotive]
-=======
 categories: [autorepair]
->>>>>>> 906437273460e83e52cf2d50e41caeeff5081d4a
 ---
 
 I was ready to head out to go mountain biking. I had my helmet and gloves loaded in the back of the pickup truck and just needed to load the bike. I started the truck and when I stepped on the brake, it went all the way to the floor. "That can't be right," I thought to myself as I turned off the engine.
