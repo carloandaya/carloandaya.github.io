@@ -27,6 +27,7 @@ baseurl: /
 url: https://carloandaya.github.io
 twitter_username: carloandaya
 github_username:  carloandaya
+instagram_username: carloandaya
 
 # Build settings
 theme: minima
@@ -62,3 +63,12 @@ collections:
     output: true
   bikes: 
     output: true
+
+header_pages: 
+  - bikes.md
+  - maintenance-records.md
+  - recipes.md
+  - reference.md
+  - about.md
+  - categories.md
+
