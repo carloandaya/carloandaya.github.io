@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: 2000 Toyota Tundra
 ---
 
