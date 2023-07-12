@@ -72,3 +72,5 @@ header_pages:
   - about.md
   - categories.md
 
+# Google Analytics
+google_analytics: UA-31202236-1
