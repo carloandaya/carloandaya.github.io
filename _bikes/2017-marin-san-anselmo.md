@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: 2017 Marin San Anselmo
 ---
 

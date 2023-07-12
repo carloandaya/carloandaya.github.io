@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: 2018 Cannondale CAAD 12
 ---
 
