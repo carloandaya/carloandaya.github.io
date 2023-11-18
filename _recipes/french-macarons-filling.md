@@ -9,17 +9,17 @@ title: French Macarons Filling
 Ingredient | Quantity | Notes
 ---|---|---
 Dark chocolate | 100 grams |
-Heavy cream | 1/2 cup or 114 grams |
-Butter | 1 tablespoon or 14.2 grams |
+Heavy cream | 1/2 cup or 114 grams | [Trader Joe's Organic Heavy Whipping Cream](https://www.traderjoes.com/home/products/pdp/organic-heavy-whipping-cream-072300)
+Butter | 1 tablespoon or 14.2 grams | [Kerrygold Pure Irish Butter](https://www.costcobusinessdelivery.com/kerrygold-pure-irish-butter%2C-salted%2C-8-oz%2C-4-ct.product.100339833.html)
 
 ### Pistachio (Nuts)
 
 Ingredient | Quantity | Notes
 ---|---|---
 White chocolate | 100 grams |
-Heavy cream | 1/4 cup or 57 grams |
-Butter | 1 tablespoon or 14.2 grams |
-Ground pistachio | 1 tablespoon |
+Heavy cream | 1/4 cup or 57 grams | [Trader Joe's Organic Heavy Whipping Cream](https://www.traderjoes.com/home/products/pdp/organic-heavy-whipping-cream-072300)
+Butter | 1 tablespoon or 14.2 grams | [Kerrygold Pure Irish Butter](https://www.costcobusinessdelivery.com/kerrygold-pure-irish-butter%2C-salted%2C-8-oz%2C-4-ct.product.100339833.html)
+Ground pistachio | 1 tablespoon | Trader Joe's Dry Roasted and Unsalted Pistachios
 
 ### Raspberries (Jams)
 
