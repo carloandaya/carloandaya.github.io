@@ -35,3 +35,5 @@ Wiper Blades | 189,729 | 2023-08-13
 
 ### Pending Maintenance
 
+* Spark plugs
+* Cabin air filter
