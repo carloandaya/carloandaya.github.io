@@ -7,7 +7,9 @@ categories: tech
 
 I was reminded once again of the fragile and fickle nature of electronic devices when my computer started rebooting a few minutes after logging in to Windows. Symptoms were intermittent: sometimes I would be able to log in and look around for a few minutes, other times it would reboot a few seconds after the login screen showed up. When I was able to check the event viewer, there were messages that seemed to indicate a driver issue.
 
-My computer had acted this way before when I had a faulty graphics card. I would let the system cool off for a little bit and then it would be back to behaving normally. 
+My computer had acted this way before when I had a faulty graphics card. I would let the system cool off for a little bit and then it would be back to behaving normally. I had dinner to give the computer time to rest but when I came back to it, the problem was still there.
+
+By this time, the computer would restart by itself so often that I would get the Windows recovery environment
 
 Started losing hope when I could not do a system restore
 
