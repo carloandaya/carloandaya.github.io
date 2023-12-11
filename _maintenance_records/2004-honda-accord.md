@@ -32,7 +32,7 @@ Oil Change | 184,203 | 2022-10-23
 Oil Change | 189,729 | 2023-08-13
 Wiper Blades | 189,729 | 2023-08-13
 [Battery]({% link _posts/2023-11-12-car-battery.md %}) | 192,503 | 2023-11-12
-Starter Motor | 192.846 | 2023-12-10
+Starter Motor | 192,846 | 2023-12-10
 
 ### Pending Maintenance
 
