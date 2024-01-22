@@ -33,9 +33,14 @@ Oil Change | 189,729 | 2023-08-13 |
 Wiper Blades | 189,729 | 2023-08-13 |
 [Battery]({% link _posts/2023-11-12-car-battery.md %}) | 192,503 | 2023-11-12 |
 Starter Motor | 192,846 | 2023-12-10 |
+Spark Plugs | 194,263 | 2024-01-20 |
+Spark Plug Seals | 194,263 | 2024-01-20 |
+Valve Cover Gasket | 194,263 | 2024-01-20 |
+Valve Adjustment | 194,263 | 2024-01-20 |
+Map Lights | 194,263 | 2024-01-20 |
+Dome Light | 194,263 | 2024-01-20 |
+
 
 ### Pending Maintenance
 
-Spark Plugs
 90657-SA5-003 clips for side apron molding
-Valve Clearance
