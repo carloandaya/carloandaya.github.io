@@ -42,7 +42,8 @@ Dome Light | 194,263 | 2024-01-20 |
 Oil Change | 194,668 | 2024-02-04 |
 Cabin Air Filter | 195,635 | 2024-03-13 |
 Knock Sensor | 197,633 | 2024-06-08 |
+PCV Valve | 197,930 | 2024-06-16 |
+Oil Change | 199,930 | 2024-10-20 |
 
 ### Pending Maintenance
 
-* PCV Valve
