@@ -7,7 +7,7 @@ title: Grandview Inventory
 
 Item | Serial Number | Notes
 ---|---|---
-Water Softener | |
+Water Softener | A101731138 |
 Whole House Water Filter | |
 Reverse Osmosis | |
 
@@ -22,12 +22,24 @@ Music Room | |
 Office | | 
 
 ## Kitchen
+
 Item | Model | Serial Number | Notes
 ---|---|---|---
-Refrigerator | | |
+Refrigerator | RF28K9380SG/AA | | Uses filter
 Oven | | |
 Under Sink Water Filter | | |
 Stand Mixer | | |
 
 ## Televisions
 
+Location | Model | Serial Number | Notes
+---|---|---|---
+Living Room
+Guest Bedroom
+Master Bedroom
+
+## Other Appliances
+
+Item | Model | Serial Number | Notes
+---|---|---|---
+Levoit Core Mini Air Purifier | LAP-C161-WUS | | 
