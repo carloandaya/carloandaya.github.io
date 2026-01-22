@@ -75,8 +75,7 @@ header_pages:
 # Google Analytics
 google_analytics: G-WRE5TRBN1X
 
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/carloandaya" }
-    - { platform: twitter, user_url: "https://twitter.com/carloandaya" }
-    - { platform: instagram, user_url: "https://instagram.com/carloandaya" }
+# social links
+github_username: carloandaya
+twitter_username: carloandaya
+instagram_username: carloandaya
