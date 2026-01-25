@@ -34,9 +34,8 @@ Stand Mixer | | |
 
 Location | Model | Serial Number | Notes
 ---|---|---|---
-Living Room
-Guest Bedroom
-Master Bedroom
+Living Room | Sony Bravia | | 
+Guest Bedroom | Vizio | | 
 
 ## Other Appliances
 
