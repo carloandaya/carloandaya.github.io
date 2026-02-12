@@ -75,8 +75,15 @@ header_pages:
 # Google Analytics
 google_analytics: G-WRE5TRBN1X
 
+
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/carloandaya" }
-    - { platform: twitter, user_url: "https://twitter.com/carloandaya" }
-    - { platform: instagram, user_url: "https://instagram.com/carloandaya" }
+     - title: My GitHub Page
+       icon: github
+       url: "https://github.com/carloandaya"
+     - title: Me at X (formerly Twitter)
+       icon: x-twitter
+       url: "https://x.com/carloandaya"
+     - title: My Instagram Page
+       icon: instagram
+       url: "https://instagram.com/carloandaya"
