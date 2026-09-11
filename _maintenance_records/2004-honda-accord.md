@@ -46,11 +46,11 @@ title: 2004 Honda Accord
 | Oil Change | 199,930 | 2024-10-20 | |
 | Oil Change | 204,252 | 2025-06-23 | |
 | Oil Change | 211,740 | 2026-08-03 | |
-| VTC Strainer | 211,740 | 2026-08-03 | |
+| VTC Strainer | 211,740 | 2026-08-03 | 15845-RAA-A01 |
+| Rear Brake Rotors | 211,876 | 2026-09-10 | |
 
 ### Pending Maintenance
 
 * Engine air filter
 * Brake fluid
 * Cabin air filter
-* MAF sensor cleaner
