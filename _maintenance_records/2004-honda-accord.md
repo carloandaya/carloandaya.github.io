@@ -50,9 +50,8 @@ title: 2004 Honda Accord
 | Rear Brake Rotors | 211,876 | 2026-09-10 | |
 | Engine Air Filter | 211,876 | 2026-09-11 | Microgard Select |
 | Cabin Air Filter | 211,876 | 2026-09-11 | Microgard HEPA |
+| Throttle Body Clean | 211,876 | 2026-09-11 | |
 
 ### Pending Maintenance
 
-* Engine air filter
 * Brake fluid
-* Cabin air filter
