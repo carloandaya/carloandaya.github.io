@@ -8,6 +8,7 @@ categories: fitness
 ## Restorative Workouts
 
 ### Lazy Yoga
+
 1. Child's pose 60-90 secs
 1. Cat-cow 5-10 reps
 1. Lizard 45-90 secs/side
@@ -21,6 +22,7 @@ categories: fitness
 1. Corpse 2-4 mins
 
 ### Total-Body Soreness Relief
+
 1. Standing backbend 30-45 secs
 1. Standing sidebend 30-45 secs/side
 1. Standing forward fold 30-45 secs
@@ -45,6 +47,7 @@ categories: fitness
 1. Corpse 2-4 mins
 
 ### Back Pain Relief
+
 1. Child's pose 45-60 secs
 1. Cat-cow 5-10 reps
 1. Lizard 45-60 secs/side
@@ -61,6 +64,7 @@ categories: fitness
 1. Corpse 2 mins
 
 ### Upper-Body Recovery
+
 1. Standing sidebend 30-45 secs/side
 1. Standing backbend 30-45 secs
 1. Half sun salutation 1-2 reps
@@ -77,6 +81,4 @@ categories: fitness
 1. Reverse warrior right side 30-45 secs
 1. Child's pose 45-75 secs
 1. Thread the needle 30-60 secs
-1. Reclined twist 30-45 secs/side          
-
-
+1. Reclined twist 30-45 secs/side

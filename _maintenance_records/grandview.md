@@ -11,6 +11,7 @@ title: Grandview
 | Whole house water filter installation | 2025 | Aquasure |
 | Replaced the irrigation valve in station 4 | 2025-09-18 | Rain Bird CPF100 |
 | Air filter | 2026-04-09 | 3M Filtrete 2500 20 x 20 x 1 |
+| Dethatch front and back lawns | 2026-09-10 | |
 
 ### Pending Maintenance
 
