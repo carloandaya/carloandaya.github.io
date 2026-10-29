@@ -52,5 +52,6 @@ title: 2004 Honda Accord
 | Cabin Air Filter | 211,876 | 2026-09-11 | Microgard HEPA |
 | Throttle Body Clean | 211,876 | 2026-09-11 | |
 | Brake Bleed | 213,386 | 2026-10-15 | |  
+| Front Brake Pads | 214,148 | 2026-10-29 | [Akebono ACT914A](https://www.amazon.com/dp/B07RN9WKW2?ref=ppx_yo2ov_dt_b_fed_asin_title) |  
 
 ### Pending Maintenance
